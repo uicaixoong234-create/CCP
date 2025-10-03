@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     int n;
-    cout << "Nhap so luong phan tu: ";
+    cout << "Con cho nam";
     cin >> n;
 
     if (n <= 0) {
