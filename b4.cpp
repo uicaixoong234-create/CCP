@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     int n;
-    cout << "Con cho nam";
+    cout << "Con cho nam hahhafhlkf";
     cin >> n;
 
     if (n <= 0) {
